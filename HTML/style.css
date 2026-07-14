@@ -1,0 +1,60 @@
+body{
+    background-color:#f0f8ff;
+    font-family:Arial, sans-serif;
+    margin:20px;
+}
+
+header{
+    background-color:darkgreen;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+
+marquee{
+    color:red;
+    font-size:20px;
+    font-weight:bold;
+    margin:10px 0;
+}
+
+nav{
+    background-color:lightgreen;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    text-decoration:none;
+    color:black;
+    margin:10px;
+    font-weight:bold;
+}
+
+section{
+    background:white;
+    border:2px solid green;
+    padding:15px;
+    margin-top:15px;
+}
+
+img{
+    width:350px;
+    border-radius:10px;
+}
+
+h1,h2{
+    color:darkblue;
+}
+
+p{
+    font-size:18px;
+}
+
+footer{
+    background-color:darkgreen;
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-top:20px;
+}
