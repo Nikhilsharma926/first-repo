@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f2f2f2;
+}
+
+.container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:darkblue;
+    padding:15px;
+}
+
+.logo{
+    color:white;
+}
+
+.navbar{
+    display:grid;
+    grid-template-columns:repeat(5,auto);
+    gap:20px;
+}
+
+.navbar a{
+    color:white;
+    text-decoration:none;
+    padding:8px 12px;
+}
+
+.navbar a:hover{
+    background:yellow;
+    color:black;
+    border-radius:5px;
+}
+
+h2,p{
+    text-align:center;
+}
